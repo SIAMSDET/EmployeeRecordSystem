@@ -14,7 +14,7 @@ A simple Java console-based application to manage employee records. This project
 ## 🎯 Features
 - Add new employees
 - View all employee records
-- Search employees by ID
+- Search employees by ID 
 - Update employee details
 - Delete employee entries
 
