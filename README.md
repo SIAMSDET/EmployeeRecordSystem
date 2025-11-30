@@ -2,7 +2,7 @@
 
 A simple Java console-based application to manage employee records. This project allows users to add, view, update, and delete employee details — all via a clean command-line interface.
 
----
+--- 
 
 ## 🔧 Technologies Used
 - Java
