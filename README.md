@@ -9,7 +9,7 @@ A simple Java console-based application to manage employee records. This project
 - Object-Oriented Programming (OOP)
 - Eclipse IDE
 
---- 
+---  
 
 ## 🎯 Features
 - Add new employees
